@@ -1,0 +1,43 @@
+.red {
+    background-color: red !important;
+}
+
+.green {
+    background-color: green !important;
+}
+
+table.dataTable.display tbody tr.green {
+    background-color: green;
+}
+
+table.dataTable.display tbody tr.odd.green .sorting_1 {
+    background-color: green;
+}
+
+table.dataTable.display tbody tr.even.green .sorting_1 {
+    background-color: green;
+}
+
+table.dataTable.display tbody tr.red {
+    background-color: red;
+}
+
+table.dataTable.display tbody tr.odd.red .sorting_1 {
+    background-color: red;
+}
+
+table.dataTable.display tbody tr.even.red .sorting_1 {
+    background-color: red;
+}
+
+table.dataTable.display tbody tr.orange {
+    background-color: orange;
+}
+
+table.dataTable.display tbody tr.odd.orange .sorting_1 {
+    background-color: orange;
+}
+
+table.dataTable.display tbody tr.even.orange .sorting_1 {
+    background-color: orange;
+}
