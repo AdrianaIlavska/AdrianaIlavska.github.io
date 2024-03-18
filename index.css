@@ -1,33 +1,37 @@
 .red {
-    background-color: red !important;
+    background-color: #E14530 !important;
 }
 
 .green {
-    background-color: green !important;
+    background-color: #65E047 !important;
+}
+
+table.dataTable thead th {
+    text-align: left !important;
 }
 
 table.dataTable.display tbody tr.green {
-    background-color: green;
+    background-color: #65E047;
 }
 
 table.dataTable.display tbody tr.odd.green .sorting_1 {
-    background-color: green;
+    background-color: #65E047;
 }
 
 table.dataTable.display tbody tr.even.green .sorting_1 {
-    background-color: green;
+    background-color: #65E047;
 }
 
 table.dataTable.display tbody tr.red {
-    background-color: red;
+    background-color: #E14530;
 }
 
 table.dataTable.display tbody tr.odd.red .sorting_1 {
-    background-color: red;
+    background-color: #E14530;
 }
 
 table.dataTable.display tbody tr.even.red .sorting_1 {
-    background-color: red;
+    background-color: #E14530;
 }
 
 table.dataTable.display tbody tr.orange {
