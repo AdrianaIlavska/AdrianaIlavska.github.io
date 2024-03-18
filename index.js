@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { Vedouci: 'Mgr. Lukáš Lehotský, Ph.D.', Oblast_expertizy: 'diskurzivní sítě; uhelná politika; klimatické hnutí', Pocet_praci: 5 },
         { Vedouci: 'JUDr. Ing. Jan Lhotský, Ph.D., E.MA', Oblast_expertizy: 'lidská práva; mezinárodní právo; demokracie; mezinárodní soudy', Pocet_praci: 3 },
         { Vedouci: 'RNDr. Petr Marek, Ph.D.', Oblast_expertizy: 'regionální geografie, regionální identita, regionalismus, Evropa', Pocet_praci: 2 },
-        { Vedouci: 'Mgr. Lenka Martínková', Oblast_expertizy: 'to_be_added', Pocet_praci: 5 },
+        { Vedouci: 'Mgr. Lenka Martínková', Oblast_expertizy: 'Blízký východ; Írán; Saudská Arábie', Pocet_praci: 5 },
         { Vedouci: 'doc. Mgr. Petr Ocelík, Ph.D.', Oblast_expertizy: 'politické sítě; klimatická politika; politické diskursy', Pocet_praci: 5 },
         { Vedouci: 'doc. Mgr. Jan Osička, Ph.D.', Oblast_expertizy: 'Energetická tranzice; Energetická politika; Dekarbonizace; Politický diskurs', Pocet_praci: 14 },
         { Vedouci: 'Ing. Bohuslav Pernica, Ph.D.', Oblast_expertizy: '', Pocet_praci: 0 },
