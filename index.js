@@ -5,8 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
         { Vedouci: 'doc. Mgr. Filip Černoch, Ph.D.', Oblast_expertizy: 'energetické vládnutí; energetická tranzice; energetická spravedlnost', Pocet_praci: 3 },
         { Vedouci: 'PhDr. Vladimír Černý, Ph.D.', Oblast_expertizy: 'dějiny 20. století; Rakousko, Německo, UK; soudobé dějiny', Pocet_praci: 16 },
         { Vedouci: 'Mgr. Martin Chovančík, Ph.D.', Oblast_expertizy: 'zbrojní průmysl; obchod se zbraněmi; sankce; ozbrojené konflikty', Pocet_praci: 15 },
-        { Vedouci: 'doc. PhDr. Břetislav Dančák, Ph.D.', Oblast_expertizy: 'střední evropa, zahraniční politika USA, NATO', Pocet_praci: 0 },
-        { Vedouci: 'prof. PhDr. Petr Fiala, Ph.D., LL.M.', Oblast_expertizy: 'srovnávací politologie, evropská politika', Pocet_praci: 0 },
         { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D.', Oblast_expertizy: 'etika, náboženstvo, conflict resolution', Pocet_praci: 12 },
         { Vedouci: 'Barbora Halašková, Ph.D.', Oblast_expertizy: '(Dlouhodobě mimo výkon práce)', Pocet_praci: 0 },
         { Vedouci: 'doc. Vratislav Havlík, Ph.D.', Oblast_expertizy: 'víceúrovňové vládnutí; evropeizace; města a regiony v EU; iliberalismus', Pocet_praci: 7 },
