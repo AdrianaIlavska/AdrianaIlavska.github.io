@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+function initTable() {
     const data = [
         { Vedouci: 'Mgr. Zinaida Bechná, Ph.D.', Oblast_expertizy: 'vnitrostátní a etnické konflikty, Kavkaz, Rusko, NATO', Pocet_praci: 9 },
  { Vedouci: 'doc. Monika Brusenbauch Meislová, Ph.D.', Oblast_expertizy: 'Brexit; Velká Británie; politický diskurz; vztahy Velké Británie a EU', Pocet_praci: 7 },
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
  { Vedouci: 'Mgr. Martin Jirušek, Ph.D.', Oblast_expertizy: 'geopolitika, energetická bezpečnost, střední a východní Evropa, USA', Pocet_praci: 3 },
  { Vedouci: 'prof. PhDr. Petr Kaniok, Ph.D.', Oblast_expertizy: 'instituce EU; euroskepticismus; Skandinávie; parlamentarismus', Pocet_praci: 8 },
  { Vedouci: 'Mgr. Anežka Konvalinová', Oblast_expertizy: 'energetická tranzice, střední evropa, Pobaltí, evropská politika', Pocet_praci: 1 },
- { Vedouci: 'Mgr. Hedvika Koďousková, Ph.D.', Oblast_expertizy: 'energetická chudoba; energetická zranitelnost; dopady energetické tranzice; energetické politiky v Asii', Pocet_praci: 5 },
+ { Vedouci: 'doc. Mgr. Hedvika Koďousková, Ph.D.', Oblast_expertizy: 'energetická chudoba; energetická zranitelnost; dopady energetické tranzice; energetické politiky v Asii', Pocet_praci: 5 },
  { Vedouci: 'PhDr. Michal Kořan, Ph.D.', Oblast_expertizy: 'Technologie a globalizace; Zahraniční politika; Střední Evropa; globalizace a deglobalizace', Pocet_praci: 6 },
  { Vedouci: 'doc. Mgr. et Mgr. Oldřich Krpec, Ph.D.', Oblast_expertizy: 'hospodářská politika střední Evropy; čínská expanze a Evropa; zbrojní průmysl; hospodářský rozvoj', Pocet_praci: 11 },
  { Vedouci: 'Mgr. Petra Kuchyňková, Ph.D.', Oblast_expertizy: 'EU integrace; EU SZBP; Vých.partnerství, Rusko; společná zeměď.pol.', Pocet_praci: 6 },
@@ -37,22 +37,22 @@ document.addEventListener('DOMContentLoaded', function() {
  { Vedouci: 'Mgr. Vladimir Vučković, Ph.D.', Oblast_expertizy: 'západní Balkán, rozšiřování EU, geopolitika, populismus', Pocet_praci: 2 }
       ];
 
-    const dataTable = $('#dataTable').DataTable({
+      $('#dataTable').DataTable({
         data: data.map(item => [item.Vedouci, item.Oblast_expertizy, item.Pocet_praci]),
         columns: [
-            { title: "Vedoucí" },
-            { title: "Oblast expertizy" },
-            { title: "Počet prací" }
+          { title: "Vedoucí" },
+          { title: "Oblast expertízy" },
+          { title: "Počet prací" }
         ],
         createdRow: function(row, data, dataIndex) {
-            const praci = data[2];
-            if (praci <= 5) {
-                $(row).addClass('green');
-            } else if (praci > 5 && praci <= 10) {
-                $(row).addClass('orange');
-            } else {
-                $(row).addClass('red');
-            }
+          const praci = data[2];
+          if (praci <= 5) {
+            $(row).addClass('green');
+          } else if (praci > 5 && praci <= 10) {
+            $(row).addClass('orange');
+          } else {
+            $(row).addClass('red');
+          }
         }
-    });
-});
+      });
+    }

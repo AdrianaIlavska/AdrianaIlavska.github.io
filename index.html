@@ -1,27 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Vytíženost vedoucích závěrečných prací</title>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
-<script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
-<script type="text/javascript" src="./index.js"></script>
-<link rel="stylesheet" type="text/css" href="./index.css">
-
+  <meta charset="UTF-8">
+  <title>Vytíženost vedoucích závěrečných prací</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+  <link rel="stylesheet" type="text/css" href="./index.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
 </head>
 <body>
-<h2>Vytíženost vedoucích závěrečných prací</h2>
-<div>
-  <table id="dataTable" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>Vedoucí</th>
-        <th>Oblast expertízy</th>
-        <th>Počet prací</th>
-      </tr>
-    </thead>
-  </table>
-</div>
+  <h2>Vytíženost vedoucích závěrečných prací/Workload of thesis supervisors</h2>
+  <button id="langSwitch">Switch to English</button>
+  <div>
+    <table id="dataTable" class="display" style="width:100%">
+      <thead>
+        <tr>
+          <th>Supervisor</th>
+          <th>Expertise</th>
+          <th>Number of theses</th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+
+  <script>
+    $(document).ready(function() {
+      var language = 'CZ'; // Default language
+
+      function loadScript(scriptUrl, callback) {
+        var script = document.createElement('script');
+        script.src = scriptUrl;
+        script.onload = callback;
+        document.head.appendChild(script);
+      }
+
+      function loadTableData() {
+        var scriptUrl = language === 'EN' ? './index_EN.js' : './index.js';
+
+        // Destroy the existing DataTable if it exists
+        if ($.fn.DataTable.isDataTable('#dataTable')) {
+          $('#dataTable').DataTable().destroy();
+          $('#dataTable tbody').empty(); // Clear the table body content
+        }
+
+        // Load the appropriate script based on the language
+        loadScript(scriptUrl, function() {
+          if (typeof initTable === 'function') {
+            initTable(); // Initialize the table with the correct data
+          }
+        });
+      }
+
+      // Initial load with the Czech version
+      loadTableData();
+
+      // Button click event to switch languages
+      $('#langSwitch').on('click', function() {
+        // Toggle language
+        language = (language === 'CZ') ? 'EN' : 'CZ';
+
+        // Update button text
+        $('#langSwitch').text(language === 'EN' ? 'Switch to Czech' : 'Switch to English');
+
+        // Reload table data with the new language
+        loadTableData();
+      });
+    });
+  </script>
 </body>
 </html>
