@@ -20,7 +20,7 @@ function initTable() {
 { Vedouci:'PhDr. Michal Kořan, Ph.D.',  Oblast_expertizy:'Technologie a globalizace; Zahraniční politika; Střední Evropa; globalizace a deglobalizace' , Pocet_praci: 6 },	
 { Vedouci:'Mgr. et Mgr. Jan Kotýnek Krotký, Ph.D.',  Oblast_expertizy:'migrační politika a diskurs, Evropský parlament, participativní demokracie v EU' , Pocet_praci: 0 },	
 { Vedouci:'doc. Mgr. et Mgr. Oldřich Krpec, Ph.D.',  Oblast_expertizy:'hospodářská politika střední Evropy; čínská expanze a Evropa; zbrojní průmysl; hospodářský rozvoj' , Pocet_praci: 10 },	
-{ Vedouci:'prof. PhDr. Zdeněk Kříž, Ph.D.',  Oblast_expertizy:'NATO; transatlatnické vztahy; Ukrajina; Německo' , Pocet_praci: 17 },	
+{ Vedouci:'prof. PhDr. Zdeněk Kříž, Ph.D.',  Oblast_expertizy:'NATO; transatlatnické vztahy; Ukrajina; Německo' , Pocet_praci: 6 },	
 { Vedouci:'Mgr. Petra Kuchyňková, Ph.D.',  Oblast_expertizy:'EU integrace; EU SZBP; Vých.partnerství, Rusko; společná zeměď.pol.' , Pocet_praci: 6 },	
 { Vedouci:'Mgr. Lukáš Lehotský, Ph.D.',  Oblast_expertizy:'diskurzivní sítě; uhelná politika; klimatické hnutí' , Pocet_praci: 1 },	
 { Vedouci:'JUDr. Ing. Jan Lhotský, Ph.D., E.MA',  Oblast_expertizy:'lidská práva; mezinárodní právo; demokracie; mezinárodní soudy' , Pocet_praci: 6 },	

@@ -20,7 +20,7 @@ function initTable() {
 { Vedouci:'PhDr. Michal Kořan, Ph.D.', Oblast_expertizy:'Technology and globalisation; Foreign policy; Central Europe; Globalisation and deglobalisation' , Pocet_praci: 6 },	
 { Vedouci:'Mgr. Et Mgr. Jan Kotýnek Krotký, Ph.D.', Oblast_expertizy:'migration policy and discourse, European Parliament, participatory democracy in the EU' , Pocet_praci: 0 },	
 { Vedouci:'doc. Mgr. et Mgr. Oldřich Krpec, Ph.D.', Oblast_expertizy:'Central European economic policy; Chinese expansion and Europe; arms industry; economic development' , Pocet_praci: 10 },	
-{ Vedouci:'prof. PhDr. Zdeněk Kříž, Ph.D.', Oblast_expertizy:'NATO; transatlantic relations; Ukraine; Germany' , Pocet_praci: 17 },	
+{ Vedouci:'prof. PhDr. Zdeněk Kříž, Ph.D.', Oblast_expertizy:'NATO; transatlantic relations; Ukraine; Germany' , Pocet_praci: 6},	
 { Vedouci:'Mgr. Petra Kuchyňková, Ph.D.', Oblast_expertizy:'EU integration; EU CFSP; Eastern Partnership, Russia; common agricultural policy' , Pocet_praci: 6 },	
 { Vedouci:'Mgr. Lukáš Lehotský, Ph.D.', Oblast_expertizy:'Discursive networks; coal politics; climate movement' , Pocet_praci: 1 },	
 { Vedouci:'JUDr. Ing. Jan Lhotský, Ph.D., E.MA', Oblast_expertizy:'human rights; international law; democracy; international courts' , Pocet_praci: 6 },	
