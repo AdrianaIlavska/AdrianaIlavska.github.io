@@ -8,7 +8,6 @@ function initTable() {
       { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ',  Oblast_expertizy: 'etika, náboženství, konflikty, teorie mezinárodních vztahů, humanitární intervence, Rusko ' , Pocet_praci: 12 },	
       { Vedouci: 'Barbora Halašková, Ph.D. ',  Oblast_expertizy: '(Dlouhodobě mimo výkon práce) ' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Vratislav Havlík, Ph.D. ',  Oblast_expertizy: 'víceúrovňové vládnutí; evropeizace; města a regiony v EU; iliberalismus ' , Pocet_praci: 8 },	
-      { Vedouci: 'prof. PhDr. Vít Hloušek, Ph.D. ',  Oblast_expertizy: 'politické strany; politické instituce; soudobé dějiny ' , Pocet_praci: 13 },	
       { Vedouci: 'Mgr. Vladan Hodulák, Ph.D. ',  Oblast_expertizy: 'mezinárodni politická ekonomie; mezinárodní ekonomické organizace; mezinárodní měnový systém; eurozóna ' , Pocet_praci: 16 },	
       { Vedouci: 'Mgr. Martin Chovančík, Ph.D. ',  Oblast_expertizy: 'zbrojní průmysl; obchod se zbraněmi; sankce; ozbrojené konflikty ' , Pocet_praci: 7 },	
       { Vedouci: 'Ing. Mgr. Adriana Ilavská, Ph.D. ',  Oblast_expertizy: 'Občianske vojny, eskalácia konfliktov, kvantitatívne metódy, QCA ' , Pocet_praci: 3 },	

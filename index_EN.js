@@ -8,7 +8,6 @@ function initTable() {
       { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ', Oblast_expertizy: 'ethics; religion; conflict; international relations theory; humanitarian intervention; Russia ' , Pocet_praci: 12 },	
       { Vedouci: 'Barbora Halašková, Ph.D. ', Oblast_expertizy: '(Inactive employment status) ' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Vratislav Havlík, Ph.D. ', Oblast_expertizy: 'multi-level governance; Europeanisation; cities and regions in the EU; illiberalism ' , Pocet_praci: 8 },	
-      { Vedouci: 'prof. PhDr. Vít Hloušek, Ph.D. ', Oblast_expertizy: 'political parties; political institutions; contemporary history ' , Pocet_praci: 13 },	
       { Vedouci: 'Mgr. Vladan Hodulák, Ph.D. ', Oblast_expertizy: 'international political economy; international economic organisations; international monetary system; eurozone ' , Pocet_praci: 16 },	
       { Vedouci: 'Mgr. Martin Chovančík, Ph.D. ', Oblast_expertizy: 'arms industry; arms trade; sanctions; armed conflict ' , Pocet_praci: 7 },	
       { Vedouci: 'Ing. Mgr. Adriana Ilavská, Ph.D. ', Oblast_expertizy: 'Civil wars, conflict escalation, quantitative methods, QCA ' , Pocet_praci: 3 },	
