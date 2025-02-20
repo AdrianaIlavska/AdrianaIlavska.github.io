@@ -16,7 +16,7 @@ function initTable() {
       { Vedouci: 'prof. PhDr. Petr Kaniok, Ph.D. ',  Oblast_expertizy: 'instituce EU; euroskepticismus; Skandinávie; parlamentarismus ' , Pocet_praci: 8 },	
       { Vedouci: 'doc. Mgr. Hedvika Koďousková, Ph.D. ',  Oblast_expertizy: 'energetická chudoba; energetická zranitelnost; dopady energetické tranzice; energetické politiky v Asii ' , Pocet_praci: 3 },	
       { Vedouci: 'Mgr. Anežka Konvalinová ',  Oblast_expertizy: 'energetická tranzice, střední evropa, Pobaltí, evropská politika ' , Pocet_praci: 0 },	
-      { Vedouci: 'PhDr. Michal Kořan, Ph.D. ',  Oblast_expertizy: 'Technologie a globalizace; Zahraniční politika; Střední Evropa; globalizace a deglobalizace ' , Pocet_praci: 7 },	
+      { Vedouci: 'PhDr. Michal Kořan, Ph.D. ',  Oblast_expertizy: 'Technologie a globalizace; Zahraniční politika; Střední Evropa; globalizace a deglobalizace ' , Pocet_praci: 6 },	
       { Vedouci: 'Mgr. et Mgr. Jan Kotýnek Krotký, Ph.D. ',  Oblast_expertizy: 'migrační politika a diskurs, Evropský parlament, participativní demokracie v EU ' , Pocet_praci: 9 },	
       { Vedouci: 'doc. Mgr. et Mgr. Oldřich Krpec, Ph.D. ',  Oblast_expertizy: 'hospodářská politika střední Evropy; čínská expanze a Evropa; zbrojní průmysl; hospodářský rozvoj ' , Pocet_praci: 8 },	
       { Vedouci: 'prof. PhDr. Zdeněk Kříž, Ph.D. ',  Oblast_expertizy: 'NATO; transatlatnické vztahy; Ukrajina; Německo ' , Pocet_praci: 7 },	
