@@ -9,7 +9,7 @@ function initTable() {
       { Vedouci: 'Barbora Halašková, Ph.D. ', Oblast_expertizy: '(Inactive employment status) ' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Vratislav Havlík, Ph.D. ', Oblast_expertizy: 'multi-level governance; Europeanisation; cities and regions in the EU; illiberalism ' , Pocet_praci: 4 },	
       { Vedouci: 'Mgr. Vladan Hodulák, Ph.D. ', Oblast_expertizy: 'international political economy; international economic organisations; international monetary system; eurozone ' , Pocet_praci: 10 },	
-      { Vedouci: 'Mgr. Martin Chovančík, Ph.D. ', Oblast_expertizy: 'arms industry; arms trade; sanctions; armed conflict ' , Pocet_praci: 8 },	
+      { Vedouci: 'Mgr. Martin Chovančík, Ph.D. ', Oblast_expertizy: 'arms industry; arms trade; sanctions; armed conflict ' , Pocet_praci: 5 },	
       { Vedouci: 'Ing. Mgr. Adriana Ilavská, Ph.D. ', Oblast_expertizy: 'Civil wars, conflict escalation, quantitative methods, QCA ' , Pocet_praci: 3 },	
       { Vedouci: 'Mgr. et Mgr. Denis Janšta ', Oblast_expertizy: 'post-Soviet area, Russia, Czech/Slovak - Russian relations ' , Pocet_praci: 7 },	
       { Vedouci: 'Mgr. Martin Jirušek, Ph.D. ', Oblast_expertizy: 'geopolitics, energy security, central and eastern Europe, USA ' , Pocet_praci: 7 },	
