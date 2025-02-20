@@ -31,7 +31,7 @@ function initTable() {
       { Vedouci: 'doc. PhDr. Markéta Pitrová, Ph.D. ',  Oblast_expertizy: 'EU integrace; EU instituce; lobbing ' , Pocet_praci: 2 },	
       { Vedouci: 'Mgr. Adam Potočňák, Ph.D. ',  Oblast_expertizy: 'velmocenské soupeření, transatlantická bezpečnost, velká strategie, ozbrojené konflikty ' , Pocet_praci: 0 },	
       { Vedouci: 'JUDr. Mgr. Ivo Pospíšil, Ph.D. ',  Oblast_expertizy: 'mezinárodní právo; právo EU; soudnictví, judicializace politiky; národnostní menšiny ' , Pocet_praci: 4 },	
-      { Vedouci: 'Zuzana Ringlerová, Ph.D. ',  Oblast_expertizy: 'Veřejné mínění; Volební chování; USA: vnitřní politika ' , Pocet_praci: 6 },	
+      { Vedouci: 'Zuzana Ringlerová, Ph.D. ',  Oblast_expertizy: 'Veřejné mínění; Volební chování; USA: vnitřní politika ' , Pocet_praci: 7 },	
       { Vedouci: 'Mgr. Bc. Tomáš Řepa, Ph.D. ', Oblast_expertizy: 'dějiny 19. a 20. století; Ukrajina; konflikty; vojenství; soudobé dějiny ' , Pocet_praci: 5 },	
       { Vedouci: 'PhDr. Petr Suchý, Ph.D. ',  Oblast_expertizy: 'jaderné zbraně a odstrašování; kontrola zbrojení; USA: zahraniční politika; USA ve studené válce ' , Pocet_praci: 3 },	
       { Vedouci: 'Ing. Mgr. Petr Svatoň ',  Oblast_expertizy: 'americko-čínské vztahy, ekonomika Číny, hospodářské dějiny ' , Pocet_praci: 8 },	

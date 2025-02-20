@@ -31,7 +31,7 @@ function initTable() {
       { Vedouci: 'doc. PhDr. Markéta Pitrová, Ph.D. ', Oblast_expertizy: 'EU integration; EU institutions; lobbying ' , Pocet_praci: 2 },	
       { Vedouci: 'Mgr. Adam Potočňák, Ph.D. ', Oblast_expertizy: 'Great Power Competition, Transatlantic Security, Grand Strategy, Armed Conflicts ' , Pocet_praci: 0 },	
       { Vedouci: 'JUDr. Mgr. Ivo Pospíšil, Ph.D. ', Oblast_expertizy: 'International law; EU law; judiciary, judicialization of politics; national minorities ' , Pocet_praci: 4 },	
-      { Vedouci: 'Zuzana Ringlerová, Ph.D. ', Oblast_expertizy: 'Public opinion; Electoral behaviour; USA: domestic politics ' , Pocet_praci: 6 },	
+      { Vedouci: 'Zuzana Ringlerová, Ph.D. ', Oblast_expertizy: 'Public opinion; Electoral behaviour; USA: domestic politics ' , Pocet_praci: 7 },	
       { Vedouci: 'Mgr. Bc. Tomáš Řepa, Ph.D. ', Oblast_expertizy: '19th and 20th century history; Ukraine; conflicts; military; contemporary history ' , Pocet_praci: 5 },	
       { Vedouci: 'PhDr. Petr Suchý, Ph.D. ', Oblast_expertizy: 'Nuclear weapons and deterrence; arms control; US: foreign policy; US in the Cold War ' , Pocet_praci: 3 },	
       { Vedouci: 'Ing. Mgr. Petr Svatoň ', Oblast_expertizy: 'US-China relations, Chinese economy, economic theories and history ' , Pocet_praci: 8 },	
