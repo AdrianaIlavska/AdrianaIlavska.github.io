@@ -15,7 +15,7 @@ function initTable() {
       { Vedouci: 'Mgr. Martin Jirušek, Ph.D. ', Oblast_expertizy: 'geopolitics, energy security, central and eastern Europe, USA ' , Pocet_praci: 5 },	
       { Vedouci: 'prof. PhDr. Petr Kaniok, Ph.D. ', Oblast_expertizy: 'EU institutions; Euroscepticism; Scandinavia; parliamentarism ' , Pocet_praci: 11 },	
       { Vedouci: 'doc. Mgr. Hedvika Koďousková, Ph.D. ', Oblast_expertizy: 'energy poverty; energy vulnerability; impacts of energy transition; energy policies in Asia ' , Pocet_praci: 1 },	
-      { Vedouci: 'Mgr. Anežka Konečná ', Oblast_expertizy: 'energy transition, CEE, Baltic states, European policy ' , Pocet_praci: 0 },	
+      { Vedouci: 'Mgr. Anežka Konečná ', Oblast_expertizy: '(Inactive employment status) ' , Pocet_praci: 0 },	
       { Vedouci: 'PhDr. Michal Kořan, Ph.D. ', Oblast_expertizy: 'Technology and globalisation; Foreign policy; Central Europe; Globalisation and deglobalisation ' , Pocet_praci: 5 },	
       { Vedouci: 'Mgr. Et Mgr. Jan Kotýnek Krotký, Ph.D. ', Oblast_expertizy: 'migration policy and discourse, European Parliament, participatory democracy in the EU ' , Pocet_praci: 7 },	
       { Vedouci: 'doc. Mgr. et Mgr. Oldřich Krpec, Ph.D. ', Oblast_expertizy: 'Central European economic policy; Chinese expansion and Europe; arms industry; economic development ' , Pocet_praci: 5 },	
