@@ -34,7 +34,6 @@ function initTable() {
       { Vedouci: 'Zuzana Ringlerová, Ph.D. ',  Oblast_expertizy: 'Veřejné mínění; Volební chování; USA: vnitřní politika ' , Pocet_praci: 5 },	
       { Vedouci: 'Mgr. Bc. Tomáš Řepa, Ph.D. ', Oblast_expertizy: 'dějiny 19. a 20. století; Ukrajina; konflikty; vojenství; soudobé dějiny ' , Pocet_praci: 3 },	
       { Vedouci: 'PhDr. Petr Suchý, Ph.D. ',  Oblast_expertizy: 'jaderné zbraně a odstrašování; kontrola zbrojení; USA: zahraniční politika; USA ve studené válce ' , Pocet_praci: 5 },	
-      { Vedouci: 'Ing. Mgr. Petr Svatoň ',  Oblast_expertizy: 'americko-čínské vztahy, ekonomika Číny, hospodářské dějiny ' , Pocet_praci: 2 },	
       { Vedouci: 'Mgr. Jana Urbanovská, Ph.D. ',  Oblast_expertizy: 'Německo; česko-německé vztahy; zahraniční politika; bezpečnostní a obranná politika ' , Pocet_praci: 5 },	
       { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ',  Oblast_expertizy: 'instituce EU; energetická politika EU; energetické vládnutí; střední Evropa ' , Pocet_praci: 9 },	
       { Vedouci: 'doc. PhDr. Tomáš Vlček, Ph.D. ',  Oblast_expertizy: 'Energetická bezpečnost; Střední a východní Evropa; Energetická politika; Jaderná energetika ' , Pocet_praci: 4 },	

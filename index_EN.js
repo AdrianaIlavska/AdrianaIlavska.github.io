@@ -34,7 +34,6 @@ function initTable() {
       { Vedouci: 'Zuzana Ringlerová, Ph.D. ', Oblast_expertizy: 'Public opinion; Electoral behaviour; USA: domestic politics ' , Pocet_praci: 5 },	
       { Vedouci: 'Mgr. Bc. Tomáš Řepa, Ph.D. ', Oblast_expertizy: '19th and 20th century history; Ukraine; conflicts; military; contemporary history ' , Pocet_praci: 3 },	
       { Vedouci: 'PhDr. Petr Suchý, Ph.D. ', Oblast_expertizy: 'Nuclear weapons and deterrence; arms control; US: foreign policy; US in the Cold War ' , Pocet_praci: 5 },	
-      { Vedouci: 'Ing. Mgr. Petr Svatoň ', Oblast_expertizy: 'US-China relations, Chinese economy, economic theories and history ' , Pocet_praci: 2 },	
       { Vedouci: 'Mgr. Jana Urbanovská, Ph.D. ', Oblast_expertizy: 'Germany; Czech-German relations; foreign policy; security and defence policy ' , Pocet_praci: 5 },	
       { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ', Oblast_expertizy: 'EU institutions; EU energy policy; energy governance; Central Europe ' , Pocet_praci: 9 },	
       { Vedouci: 'doc. PhDr. Tomáš Vlček, Ph.D. ', Oblast_expertizy: 'Energy security; Central and Eastern Europe; Energy policy; Nuclear energy ' , Pocet_praci: 4 },	
