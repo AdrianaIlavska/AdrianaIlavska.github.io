@@ -24,7 +24,7 @@ function initTable() {
       { Vedouci: 'Mgr. Petra Kuchyňková, Ph.D. ',  Oblast_expertizy: 'EU integrace; EU SZBP; Vých.partnerství, Rusko; společná zeměď.pol. ' , Pocet_praci: 8 },	
       { Vedouci: 'Mgr. Lukáš Lehotský, Ph.D. ',  Oblast_expertizy: 'diskurzivní sítě; uhelná politika; klimatické hnutí ' , Pocet_praci: 2 },	
       { Vedouci: 'JUDr. Ing. Jan Lhotský, Ph.D., E.MA ',  Oblast_expertizy: 'lidská práva; mezinárodní právo; demokracie; mezinárodní soudy ' , Pocet_praci: 5 },	
-      { Vedouci: 'RNDr. Petr Marek, Ph.D. ',  Oblast_expertizy: 'regionální geografie, regionální identita, regionalismus, Evropa ' , Pocet_praci: 2 },	
+      { Vedouci: 'RNDr. Petr Marek, Ph.D. ',  Oblast_expertizy: 'regionální geografie, regionální identita, regionalismus, Evropa ' , Pocet_praci: 6 },	
       { Vedouci: 'doc. Mgr. Petr Ocelík, Ph.D. ',  Oblast_expertizy: 'politické sítě; klimatická politika; politické diskursy ' , Pocet_praci: 4 },	
       { Vedouci: 'doc. Mgr. Jan Osička, Ph.D. ',  Oblast_expertizy: 'Energetická tranzice; Energetická politika; Dekarbonizace; Politický diskurs ' , Pocet_praci: 6 },	
       { Vedouci: 'Ing. Bohuslav Pernica, Ph.D. ',  Oblast_expertizy: 'transformace vojenského sektoru, obranný průmysl, revoluce ve vojenských záležitostech ' , Pocet_praci: 1 },	
