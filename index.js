@@ -6,7 +6,7 @@ function initTable() {
       { Vedouci: 'Tomáš Cirhan, Ph.D. ',  Oblast_expertizy: 'Střední a východní Evropa; populismus' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Mgr. Filip Černoch, Ph.D. ',  Oblast_expertizy: 'energetické vládnutí; energetická tranzice; energetická spravedlnost ' , Pocet_praci: 8 },	
       { Vedouci: 'PhDr. Vladimír Černý, Ph.D. ',  Oblast_expertizy: 'dějiny 20. století; Rakousko, Německo, UK; soudobé dějiny ' , Pocet_praci: 12 },	
-      { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ',  Oblast_expertizy: 'etika, náboženství, konflikty, teorie mezinárodních vztahů, humanitární intervence, Rusko ' , Pocet_praci: 9 },	
+      { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ',  Oblast_expertizy: 'etika, náboženství, konflikty, teorie mezinárodních vztahů, humanitární intervence, Rusko ' , Pocet_praci: 10 },	
       { Vedouci: 'Barbora Halašková, Ph.D. ',  Oblast_expertizy: '(Dlouhodobě mimo výkon práce) ' , Pocet_praci: 0 },	
       { Vedouci: 'Mgr. Lukáš Hamřík, Ph.D. ',  Oblast_expertizy: 'personalizace politiky; instituce EU; backsliding právního státu; politický a soudní leadership; soudnictví ' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Vratislav Havlík, Ph.D. ',  Oblast_expertizy: 'víceúrovňové vládnutí; evropeizace; města a regiony v EU; iliberalismus ' , Pocet_praci: 8},	
@@ -35,7 +35,7 @@ function initTable() {
       { Vedouci: 'Mgr. Bc. Tomáš Řepa, Ph.D. ', Oblast_expertizy: 'dějiny 19. a 20. století; Ukrajina; konflikty; vojenství; soudobé dějiny ' , Pocet_praci: 3 },	
       { Vedouci: 'PhDr. Petr Suchý, Ph.D. ',  Oblast_expertizy: 'jaderné zbraně a odstrašování; kontrola zbrojení; USA: zahraniční politika; USA ve studené válce ' , Pocet_praci: 5 },	
       { Vedouci: 'Mgr. Jana Urbanovská, Ph.D. ',  Oblast_expertizy: 'Německo; česko-německé vztahy; zahraniční politika; bezpečnostní a obranná politika ' , Pocet_praci: 5 },	
-      { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ',  Oblast_expertizy: 'instituce EU; energetická politika EU; energetické vládnutí; střední Evropa ' , Pocet_praci: 9 },	
+      { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ',  Oblast_expertizy: 'instituce EU; energetická politika EU; energetické vládnutí; střední Evropa ' , Pocet_praci: 12 },	
       { Vedouci: 'doc. PhDr. Tomáš Vlček, Ph.D. ',  Oblast_expertizy: 'Energetická bezpečnost; Střední a východní Evropa; Energetická politika; Jaderná energetika ' , Pocet_praci: 4 },	
       { Vedouci: 'Mgr. Vladimir Vučković, Ph.D. ',  Oblast_expertizy: 'západní Balkán, rozšiřování EU, geopolitika, populismus ' , Pocet_praci: 4 }
       ];

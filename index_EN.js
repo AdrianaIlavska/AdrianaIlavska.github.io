@@ -6,7 +6,7 @@ function initTable() {
       { Vedouci: 'Tomáš Cirhan, Ph.D. ',  Oblast_expertizy: 'Central and Eastern Europe; populism' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Mgr. Filip Černoch, Ph.D. ', Oblast_expertizy: 'energy governance; energy transition; energy justice ' , Pocet_praci: 8 },	
       { Vedouci: 'PhDr. Vladimír Černý, Ph.D. ', Oblast_expertizy: '20th century history; Austria, Germany, UK; contemporary history ' , Pocet_praci: 12 },	
-      { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ', Oblast_expertizy: 'ethics; religion; conflict; international relations theory; humanitarian intervention; Russia ' , Pocet_praci: 9 },	
+      { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ', Oblast_expertizy: 'ethics; religion; conflict; international relations theory; humanitarian intervention; Russia ' , Pocet_praci: 10 },	
       { Vedouci: 'Barbora Halašková, Ph.D. ', Oblast_expertizy: '(Inactive employment status) ' , Pocet_praci: 0 },	
       { Vedouci: 'Mgr. Lukáš Hamřík, Ph.D. ',  Oblast_expertizy: 'policy personalization; EU institutions; backsliding of the rule of law; political and judicial leadership; judiciary ' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Vratislav Havlík, Ph.D. ', Oblast_expertizy: 'multi-level governance; Europeanisation; cities and regions in the EU; illiberalism ' , Pocet_praci: 8 },	
@@ -35,7 +35,7 @@ function initTable() {
       { Vedouci: 'Mgr. Bc. Tomáš Řepa, Ph.D. ', Oblast_expertizy: '19th and 20th century history; Ukraine; conflicts; military; contemporary history ' , Pocet_praci: 3 },	
       { Vedouci: 'PhDr. Petr Suchý, Ph.D. ', Oblast_expertizy: 'Nuclear weapons and deterrence; arms control; US: foreign policy; US in the Cold War ' , Pocet_praci: 5 },	
       { Vedouci: 'Mgr. Jana Urbanovská, Ph.D. ', Oblast_expertizy: 'Germany; Czech-German relations; foreign policy; security and defence policy ' , Pocet_praci: 5 },	
-      { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ', Oblast_expertizy: 'EU institutions; EU energy policy; energy governance; Central Europe ' , Pocet_praci: 9 },	
+      { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ', Oblast_expertizy: 'EU institutions; EU energy policy; energy governance; Central Europe ' , Pocet_praci: 12 },	
       { Vedouci: 'doc. PhDr. Tomáš Vlček, Ph.D. ', Oblast_expertizy: 'Energy security; Central and Eastern Europe; Energy policy; Nuclear energy ' , Pocet_praci: 4 },	
       { Vedouci: 'Mgr. Vladimir Vučković, Ph.D. ', Oblast_expertizy: 'Western Balkans, EU enlargement, geopolitics, populism ' , Pocet_praci: 4 }
       ];
