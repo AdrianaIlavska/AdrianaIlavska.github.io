@@ -37,7 +37,7 @@ function initTable() {
       { Vedouci: 'Mgr. Jana Urbanovská, Ph.D. ',  Oblast_expertizy: 'Německo; česko-německé vztahy; zahraniční politika; bezpečnostní a obranná politika ' , Pocet_praci: 8 },	
       { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ',  Oblast_expertizy: 'instituce EU; energetická politika EU; energetické vládnutí; střední Evropa ' , Pocet_praci: 12 },	
       { Vedouci: 'doc. PhDr. Tomáš Vlček, Ph.D. ',  Oblast_expertizy: 'Energetická bezpečnost; Střední a východní Evropa; Energetická politika; Jaderná energetika ' , Pocet_praci: 4 },	
-      { Vedouci: 'Mgr. Vladimir Vučković, Ph.D. ',  Oblast_expertizy: 'západní Balkán, rozšiřování EU, geopolitika, populismus ' , Pocet_praci: 4 }
+      { Vedouci: 'Mgr. Vladimir Vučković, Ph.D. ',  Oblast_expertizy: 'západní Balkán, rozšiřování EU, geopolitika, populismus ' , Pocet_praci: 7 }
       ];
 
       $('#dataTable').DataTable({

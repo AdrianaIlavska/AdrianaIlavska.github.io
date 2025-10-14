@@ -37,7 +37,7 @@ function initTable() {
       { Vedouci: 'Mgr. Jana Urbanovská, Ph.D. ', Oblast_expertizy: 'Germany; Czech-German relations; foreign policy; security and defence policy ' , Pocet_praci: 8 },	
       { Vedouci: 'Mgr. et Mgr. Veronika Velička Zapletalová, Ph.D. ', Oblast_expertizy: 'EU institutions; EU energy policy; energy governance; Central Europe ' , Pocet_praci: 12 },	
       { Vedouci: 'doc. PhDr. Tomáš Vlček, Ph.D. ', Oblast_expertizy: 'Energy security; Central and Eastern Europe; Energy policy; Nuclear energy ' , Pocet_praci: 4 },	
-      { Vedouci: 'Mgr. Vladimir Vučković, Ph.D. ', Oblast_expertizy: 'Western Balkans, EU enlargement, geopolitics, populism ' , Pocet_praci: 4 }
+      { Vedouci: 'Mgr. Vladimir Vučković, Ph.D. ', Oblast_expertizy: 'Western Balkans, EU enlargement, geopolitics, populism ' , Pocet_praci: 7 }
       ];
 
       $('#dataTable').DataTable({
