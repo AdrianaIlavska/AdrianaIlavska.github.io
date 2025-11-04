@@ -18,7 +18,7 @@ function initTable() {
       { Vedouci: 'doc. Mgr. Hedvika Koďousková, Ph.D. ', Oblast_expertizy: 'energy poverty; energy vulnerability; impacts of energy transition; energy policies in Asia ' , Pocet_praci: 7 },	
       { Vedouci: 'Mgr. Anežka Konečná ', Oblast_expertizy: '(Inactive employment status) ' , Pocet_praci: 0 },	
       { Vedouci: 'PhDr. Michal Kořan, Ph.D. ', Oblast_expertizy: 'Technology and globalisation; Foreign policy; Central Europe; Globalisation and deglobalisation ' , Pocet_praci: 5 },	
-      { Vedouci: 'Mgr. Et Mgr. Jan Kotýnek Krotký, Ph.D. ', Oblast_expertizy: 'migration policy and discourse, European Parliament, participatory democracy in the EU ' , Pocet_praci: 8 },	
+      { Vedouci: 'Mgr. Et Mgr. Jan Kotýnek Krotký, Ph.D. ', Oblast_expertizy: 'migration policy and discourse, European Parliament, participatory democracy in the EU ' , Pocet_praci: 9 },	
       { Vedouci: 'doc. Mgr. et Mgr. Oldřich Krpec, Ph.D. ', Oblast_expertizy: 'Central European economic policy; Chinese expansion and Europe; arms industry; economic development ' , Pocet_praci: 5 },	
       { Vedouci: 'prof. PhDr. Zdeněk Kříž, Ph.D. ', Oblast_expertizy: 'NATO; transatlantic relations; Ukraine; Germany ' , Pocet_praci: 4 },	
       { Vedouci: 'Mgr. Petra Kuchyňková, Ph.D. ', Oblast_expertizy: 'EU integration; EU CFSP; Eastern Partnership, Russia; common agricultural policy ' , Pocet_praci: 8 },	
