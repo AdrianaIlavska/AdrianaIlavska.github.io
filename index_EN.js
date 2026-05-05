@@ -24,7 +24,7 @@ function initTable() {
       { Vedouci: 'Mgr. Lukáš Lehotský, Ph.D. ', Oblast_expertizy: 'Discursive networks; coal politics; climate movement ' , Pocet_praci: 8 },	
       { Vedouci: 'JUDr. Ing. Jan Lhotský, Ph.D., E.MA ', Oblast_expertizy: 'human rights; international law; democracy; international courts ' , Pocet_praci: 5 },	
       { Vedouci: 'RNDr. Petr Marek, Ph.D. ', Oblast_expertizy: 'regional geography, regional identity, regionalism, Europe ' , Pocet_praci: 11 },	
-      { Vedouci: 'Dr. Linda Monsees. ', Oblast_expertizy: ' ' , Pocet_praci: 0 },	
+      { Vedouci: 'Dr. Linda Monsees. ', Oblast_expertizy: 'critical security studies, politics of technology, digitization' , Pocet_praci: 0 },	
       { Vedouci: 'doc. Mgr. Petr Ocelík, Ph.D. ', Oblast_expertizy: 'political networks; climate policy; political discourses ' , Pocet_praci: 9 },	
       { Vedouci: 'doc. Mgr. Jan Osička, Ph.D. ', Oblast_expertizy: 'Energy transition; Energy policy; Decarbonisation; Political discourse ' , Pocet_praci: 5 },	
       { Vedouci: 'Ing. Bohuslav Pernica, Ph.D. ', Oblast_expertizy: 'transformation of the military sector, defence industry, revolution in military affairs ' , Pocet_praci: 4 },	
