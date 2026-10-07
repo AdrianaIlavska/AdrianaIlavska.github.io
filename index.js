@@ -1,7 +1,7 @@
 function initTable() {
     const data = [
       { Vedouci: 'Mgr. Zinaida Bechná, Ph.D. ',  Oblast_expertizy: 'vnitrostátní a etnické konflikty, Kavkaz, Rusko, NATO ' , Pocet_praci: 1 },	
-      { Vedouci: 'Mgr. et Mgr. Vladimir Bízik, Ph.D. ',  Oblast_expertizy: 'Turecko, Blízký východ, Japonsko, technologie v mezinárodních vztazích ' , Pocet_praci: 2 },	
+      { Vedouci: 'Mgr. et Mgr. Vladimir Bízik, Ph.D. ',  Oblast_expertizy: 'Turecko, Blízký východ, Japonsko, technologie v mezinárodních vztazích ' , Pocet_praci: 10 },	
       { Vedouci: 'doc. Monika Brusenbauch Meislová, Ph.D. ',  Oblast_expertizy: 'Brexit; Velká Británie; politický diskurz; vztahy Velké Británie a EU ' , Pocet_praci: 3 },	
       { Vedouci: 'Tomáš Cirhan, Ph.D. ',  Oblast_expertizy: 'Střední a východní Evropa; populismus' , Pocet_praci: 5 },	
       { Vedouci: 'doc. Mgr. Filip Černoch, Ph.D. ',  Oblast_expertizy: 'energetické vládnutí; energetická tranzice; energetická spravedlnost ' , Pocet_praci: 6 },	
