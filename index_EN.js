@@ -7,7 +7,7 @@ function initTable() {
       { Vedouci: 'doc. Mgr. Filip Černoch, Ph.D. ', Oblast_expertizy: 'energy governance; energy transition; energy justice ' , Pocet_praci: 5 },	
       { Vedouci: 'PhDr. Vladimír Černý, Ph.D. ', Oblast_expertizy: '20th century history; Austria, Germany, UK; contemporary history ' , Pocet_praci: 11 },	
       { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ', Oblast_expertizy: 'ethics; religion; conflict; international relations theory; humanitarian intervention; Russia ' , Pocet_praci: 9},	
-      { Vedouci: 'Barbora Halašková, Ph.D. ', Oblast_expertizy: '(Inactive employment status) ' , Pocet_praci: 1 },	
+      { Vedouci: 'Barbora Halašková, Ph.D. ', Oblast_expertizy: '' , Pocet_praci: 1 },	
       { Vedouci: 'Mgr. Lukáš Hamřík, Ph.D. ',  Oblast_expertizy: 'policy personalization; EU institutions; backsliding of the rule of law; political and judicial leadership; judiciary ' , Pocet_praci: 1 },	
       { Vedouci: 'doc. Vratislav Havlík, Ph.D. ', Oblast_expertizy: 'multi-level governance; Europeanisation; cities and regions in the EU; illiberalism ' , Pocet_praci: 7 },	
       { Vedouci: 'Mgr. Vladan Hodulák, Ph.D. ', Oblast_expertizy: 'international political economy; international economic organisations; international monetary system; eurozone ' , Pocet_praci: 9 },	

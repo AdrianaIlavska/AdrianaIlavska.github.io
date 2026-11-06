@@ -7,7 +7,7 @@ function initTable() {
       { Vedouci: 'doc. Mgr. Filip Černoch, Ph.D. ',  Oblast_expertizy: 'energetické vládnutí; energetická tranzice; energetická spravedlnost ' , Pocet_praci: 5},	
       { Vedouci: 'PhDr. Vladimír Černý, Ph.D. ',  Oblast_expertizy: 'dějiny 20. století; Rakousko, Německo, UK; soudobé dějiny ' , Pocet_praci: 11 },	
       { Vedouci: 'Mgr. Kateřina Fridrichová, Ph.D. ',  Oblast_expertizy: 'etika, náboženství, konflikty, teorie mezinárodních vztahů, humanitární intervence, Rusko ' , Pocet_praci: 9 },	
-      { Vedouci: 'Barbora Halašková, Ph.D. ',  Oblast_expertizy: '(Dlouhodobě mimo výkon práce) ' , Pocet_praci: 1 },	
+      { Vedouci: 'Barbora Halašková, Ph.D. ',  Oblast_expertizy: '' , Pocet_praci: 1 },	
       { Vedouci: 'Mgr. Lukáš Hamřík, Ph.D. ',  Oblast_expertizy: 'personalizace politiky; instituce EU; backsliding právního státu; politický a soudní leadership; soudnictví ' , Pocet_praci: 1 },	
       { Vedouci: 'doc. Vratislav Havlík, Ph.D. ',  Oblast_expertizy: 'víceúrovňové vládnutí; evropeizace; města a regiony v EU; iliberalismus ' , Pocet_praci: 7},	
       { Vedouci: 'Mgr. Vladan Hodulák, Ph.D. ',  Oblast_expertizy: 'mezinárodni politická ekonomie; mezinárodní ekonomické organizace; mezinárodní měnový systém; eurozóna ' , Pocet_praci: 9 },	
